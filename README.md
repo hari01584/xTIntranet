@@ -31,7 +31,7 @@ python get.py
 
 **EXAMPLE PLAYING MINECRAFT JAVA OVER LAN**
 
-Minecraft is an easy to accessible and fun game, here further steps are taken with regards of setting Minecraft World for LAN play, Similar steps are to be taken for other games as well (like CSGO, Rocket League, L4D2, NFS, etc)
+Minecraft is an easy to accessible and fun game, here further steps are taken with regards of setting Minecraft World for LAN play, Similar steps are to be taken for other games as well (like CSGO, L4D2, NFS, etc)
 
 ***STEPS***
 

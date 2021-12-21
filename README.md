@@ -8,6 +8,7 @@ Cause why not? Who doesn't want to play with their pals and enjoy a fun gaming s
 * Cannot expose localservices over thapar wifi.
 * Get super low ping because you are using Intranet to play games.
 #### Limitations
+* **Limited to single Hostel, ie Hostel M can't play with people from Hostel O or Hostel N**
 * Prototype/Alpha stage - not widely tested, might still contain some bugs.
 * A little difficult for total tech beginners (don't worry, I will help y'all).
 * *Need friends to play with*... (jk)

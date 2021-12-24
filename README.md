@@ -48,7 +48,7 @@ See how we used 14259 in the command, change this to your respective port number
 Check for it's output, make sure everything is working fine and there's no error! In case everything fine *note the secret_port* here its *24721*
 ![get_secret_port](https://raw.githubusercontent.com/hari01584/xTIntranet/main/get_secret_port.png)
 
-3. Note the Host Server IPv6 Address (do ipconfig in windows)
+3. Note the Host Server IPv6 Address (do ipconfig in windows or ip a in linux)
 ```
 ipconfig /all
 ```
@@ -65,6 +65,11 @@ python cli.py --no-host --host fe80::1c18:4d43:4031:1c81 connect 14259
 *Now you can connect to ip *127.0.0.1:14259* in Minecraft and play on the server! :DD*
 
 ![local_connect_client](https://raw.githubusercontent.com/hari01584/xTIntranet/main/local_connect_client.png)
+
+## Video (YT Full)
+[![Alt text](https://img.youtube.com/vi/dvy7OiLBpoo/0.jpg)](https://www.youtube.com/watch?v=dvy7OiLBpoo)
+
+
 ## Feedback
 
 If you have any feedback, please reach out at hari01584@gmail.com or preferably discord **Agent_Orange#9852**

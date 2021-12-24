@@ -13,6 +13,7 @@ Cause why not? Who doesn't want to play with their pals and enjoy a fun gaming s
 * A little difficult for total tech beginners (don't worry, I will help y'all).
 * *Need friends to play with*... (jk)
 
+https://raw.githubusercontent.com/hari01584/xTIntranet/main/demo_short_xtintranet.mp4
 
 ## Step-By-Step
 1. Clone the backbone repository [project-orion](https://github.com/hari01584/project-orion)

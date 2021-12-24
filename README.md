@@ -67,7 +67,7 @@ python cli.py --no-host --host fe80::1c18:4d43:4031:1c81 connect 14259
 ![local_connect_client](https://raw.githubusercontent.com/hari01584/xTIntranet/main/local_connect_client.png)
 
 ## Video (YT Full)
-[![Alt text](https://img.youtube.com/vi/dvy7OiLBpoo/0.jpg)](https://www.youtube.com/watch?v=dvy7OiLBpoo)
+<iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/watch?v=dvy7OiLBpoo?autoplay=1" frameborder="0" allowfullscreen></iframe>
 
 
 ## Feedback

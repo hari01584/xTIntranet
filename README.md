@@ -23,8 +23,9 @@ git clone https://github.com/hari01584/project-orion
 ```
 2. Install requirements and cd to /sirius
 ```
+cd project-orion
 python -m pip install -r requirements.txt
-cd /sirius
+cd sirius
 ```
 3. Run get.py to download neccesary files for running this project.
 python get.py

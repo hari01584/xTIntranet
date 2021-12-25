@@ -51,6 +51,8 @@ See how we used 14259 in the command, change this to your respective port number
 Check for it's output, make sure everything is working fine and there's no error! In case everything fine *note the secret_port* here its *24721*
 ![get_secret_port](https://raw.githubusercontent.com/hari01584/xTIntranet/main/get_secret_port.png)
 
+**NOTE: Your windows might give Virus Warning when executing frpc executable, but fret not it is a false positive report, all the projects/codes used in this project are open sourced and do not contain any malicious script/etc, the issue created for this [false positive report is here](https://github.com/fatedier/frp/issues/2095)
+
 3. Note the Host Server IPv6 Address (do ipconfig in windows or ip a in linux)
 ```
 ipconfig /all

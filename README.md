@@ -43,6 +43,7 @@ Minecraft is an easy to accessible and fun game, here further steps are taken wi
 ![game_open_lan](https://raw.githubusercontent.com/hari01584/xTIntranet/main/game_open_lan.png)
 
 2. On this Host Server (Where LAN is exposed) run this command in project-orion/sirius directory
+
 **NOTE: Your windows might give Virus Warning when executing frpc executable, but fret not it is a false positive report, all the projects/codes used in this project are open sourced and do not contain any malicious script/etc, the issue created for this [false positive report is here](https://github.com/fatedier/frp/issues/2095)**
 
 ```

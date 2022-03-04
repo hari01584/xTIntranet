@@ -1,4 +1,7 @@
 ## xTIntranet - LAN Gaming over EACCESS
+
+### OBSOLETE: Due to recent changes in EACCESS wifi, all the lan protocols (IPV4 and 6) are opened, You don't need xTIntranet anymore, just directly connect to target computer IPv4 address. This tutorial is Obsolete for Thapar's Wifi.
+
 LAN Gaming over Thapar's Wifi (EACCESS, etc) made possible :)!!
 ### Why?
 Cause why not? Who doesn't want to play with their pals and enjoy a fun gaming session together? All without any hassles of hosting global servers or gathering into one room to allow for LAN gaming over mobile hotspots/ethernet!
